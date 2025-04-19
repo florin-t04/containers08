@@ -1,17 +1,12 @@
-# Laboratorul 8: Integrare continuă cu GitHub Actions
-
-## 1. Descrierea proiectului
-
 **Numele lucrării de laborator:** Integrare continuă cu GitHub Actions
 
 **Scopul lucrării:**
-- Configurarea procesului de integrare continuă folosind GitHub Actions și containere Docker pentru o aplicație PHP cu bază SQLite.
+- În cadrul acestei lucrări studenții vor învăța să configureze integrarea continuă cu ajutorul Github Actions.
 
 **Sarcina:**
-- Crearea unei aplicații web PHP cu operații CRUD pe o bază de date SQLite.
-- Scrierea testelor unitare pentru clasele `Database` și `Page`.
-- Containerizarea aplicației cu Docker.
-- Configurarea unui workflow CI în GitHub Actions pentru rularea automată a testelor.
+- Crearea unei aplicații Web, scrierea testelor pentru aceasta și configurarea integrării continue cu ajutorul Github Actions pe baza containerelor.
+
+
 
 ## 2. Execuție pas cu pas a proiectului
 
